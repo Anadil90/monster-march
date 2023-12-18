@@ -27,6 +27,7 @@ function makeMonsters() {
       gameOver();
     }
 
+
 }
 
 //make the monsters march down by changing the bottom position every 1000ms
